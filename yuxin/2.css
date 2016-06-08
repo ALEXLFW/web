@@ -1,0 +1,31 @@
+body, html {
+	width: 100%;
+	height: 100%; 
+	margin:0;
+	font-family:"微软雅黑";
+}
+#allmap {
+	height:500px; 
+	width:100%;
+}
+#driving_way {
+	margin-top: 20px;
+	height: 50px;
+	width:300px;
+}
+#choose {
+	float: left;
+	height: 23px;
+	width: 100px;
+}
+#result {
+	float: left;
+	height: 23px;
+	width: 80px;
+	margin-left:20px;
+}
+#result2 {
+	float: right;
+	width: 30%;
+	height:33px;
+}

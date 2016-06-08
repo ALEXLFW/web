@@ -1,0 +1,29 @@
+.col-xs-1,.col-xs-10{
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    height: 100px;
+    background-color: #F6F6F6;
+}
+#return,#share{
+    font-size: 40px;
+    text-align: center;
+   /* margin:15px 35%;*/
+    line-height: 100px
+}
+#word{
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Microsoft yahei";
+    line-height: 100px;
+}
+.col-xs-12{
+    height: 600px;
+   /* margin-top: 10px;*/
+}
+.box{
+    width: 50%;
+    height: 100%;
+    margin:30px 25%;
+    
+}

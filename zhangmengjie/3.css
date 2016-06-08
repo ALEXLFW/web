@@ -1,0 +1,143 @@
+.row-1 {
+    height: 35px;
+    margin-top: 10px;
+    
+    border-bottom: 1px solid grey;
+}
+.style {
+    font-size: 20px;
+    font-weight: bold;
+}
+.fa-bullhorn {
+    color: white;
+}
+.row-2 {
+    height: 90px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+
+}
+.row-2 img {
+    width: 100%;
+    height: 80px;
+}
+.style1 {
+    margin-left: 5px;
+    font-size: 15px;
+}
+.style2 {
+    margin-left: 5px;
+    font-size: 10px;
+    color: white;
+}
+.col-xs-b4 {
+    margin-top: 5px;
+    margin-left: -10px;
+}
+.col-xs-b5 {
+    margin-top: 5px;
+    margin-left: -10px;
+    background-color: orange;
+}
+.col-xs-b7 {
+    float: right;
+    margin-left: -30px;
+}
+.style3 {
+    font-size: 10px;
+    color: orange; 
+}
+.row-3 {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.fa-angle-right {
+    float: right;
+}
+.row-4 {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-5 {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-6 {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-7 {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-8 {
+	margin-top: 10px;
+}
+.col-xs-h1 {
+	background-color: orange;
+}
+.style3 {
+	margin-left: 30px;
+	color: white;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.row-tmpEnd {
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    margin-bottom: 10px;
+    border-top: 1px solid #dbdbdb;
+    z-index: 100000;
+    background: rgba(255,255,255,0.7);
+}
+.row-tmpEnd2 {
+    position: fixed;
+    width: 109%;
+    height: 19px;
+    line-height: 19px;
+    z-index: 100000;
+}
+.col-xs-tmpFa {
+    height: 25px;
+    line-height: 25px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-xs-tmpFatext {
+    height: 19px;
+    line-height: 19px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.col-xs-tmpFatext h2 {
+    font-size: 14px;
+    color: #4c4c4c;
+    margin: 0;
+}
+li {
+    list-style: none;
+}
+.fa-bell-o {
+    color: #ff8c00;
+}
+.fa {
+    color: #4c4c4c;
+    height: 20px;
+    line-height: 20px;
+}

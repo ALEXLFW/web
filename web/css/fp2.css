@@ -1,0 +1,147 @@
+.row-station {
+    height: 35px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.fa-angle-left {
+    margin-top: 10px;
+}
+.style {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fa-bullhorn {
+    color: white;
+}
+.row-info {
+    height: 90px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-info img {
+    margin-top: 5px;
+    width: 90%;
+    height: 80px;
+}
+.style-name {
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.style-tip {
+    margin-left: 5px;
+    font-size: 10px;
+    color: white;
+}
+.col-xs-name {
+    margin-top: 5px;
+    margin-left: -10px;
+}
+.col-xs-tip {
+    margin-top: 5px;
+    margin-left: -10px;
+    background-color: orange;
+}
+/*.col-xs-b7 {
+    float: right;
+    margin-left: -30px;
+}*/
+.row-location {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.fa-angle-right {
+    float: right;
+}
+.row-num {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-bus {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-sell {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-time {
+    height: 30px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.row-comment {
+	margin-top: 10px;
+}
+.col-xs-comment {
+    margin-top: 10px;
+	background-color: orange;
+}
+.style-comment {
+	margin-left: 30px;
+	color: white;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.row-tmpEnd {
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    margin-bottom: 10px;
+    border-top: 1px solid #dbdbdb;
+    z-index: 100000;
+    background: rgba(255,255,255,0.7);
+}
+.row-tmpEnd2 {
+    position: fixed;
+    width: 100%;
+    height: 19px;
+    line-height: 19px;
+    z-index: 100000;
+}
+.col-xs-tmpFa {
+    height: 25px;
+    line-height: 25px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-xs-tmpFatext {
+    height: 19px;
+    line-height: 19px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.col-xs-tmpFatext h2 {
+    font-size: 14px;
+    color: #4c4c4c;
+    margin: 0;
+}
+li {
+    list-style: none;
+}
+.fa-bell-o {
+    color: #ff8c00;
+}
+.fa {
+    color: #4c4c4c;
+    height: 20px;
+    line-height: 20px;
+}
+.row {
+    margin:0px;
+}

@@ -1,0 +1,53 @@
+.row {
+	height: 55px;
+}
+.row-station {
+    margin-top:12px;
+    height: 43px;
+}
+.style {
+	font-size: 20px;
+}
+.row-east {
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	height: 165px;
+}
+.row-east .fa-angle-right {
+	margin-top: 35px;
+}
+.col-xs-head {
+	margin-top: 10px;
+}
+.style-name {
+	font-size: 16px;
+	font-weight: bold;
+}
+.col-xs-tip {
+	background-color: orange;
+}
+.style-tip {
+	font-size: 12px;
+	margin-left: 10px;
+	color: white;
+}
+.col-xs-info {
+	margin-top: 8px;
+}
+.col-xs-info img {
+	width: 100%;
+	height: 100px;
+}
+.row-south {
+	height: 165px;
+	border-bottom: 1px solid grey;
+}
+.row-north {
+	height: 165px;
+	border-bottom: 1px solid grey;
+}
+.row-west {
+	height: 165px;
+	border-bottom: 1px solid grey;
+}
+

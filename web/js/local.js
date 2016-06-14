@@ -1,0 +1,35 @@
+$(document).ready(function(){
+    $("#btn").click(function(){
+        $(".container-fluid").css({opacity:0.5});
+        $("#login").fadeIn(100);
+        /*$(".replyBox").show();*/
+    });
+    $("#close").click(function(){
+        $(".container-fluid").css({opacity:1});
+        $("#login").hide();
+    });
+    $('#fa1').click(function(){
+    	window.location.href="../index.html";
+    });
+    $('#fa2').click(function(){
+    	window.location.href="Activity.html";
+    });
+    $('#fa3').click(function(){
+    	window.location.href="dingdang1.html";
+    });
+    $('#fa4').click(function(){
+    	window.location.href="local.html";
+    });
+    $('#word21').click(function(){
+    	window.location.href="../index.html";
+    });
+    $('#word22').click(function(){
+    	window.location.href="Activity.html";
+    });
+    $('#word23').click(function(){
+    	window.location.href="dingdang1.html";
+    });
+    $('#word24').click(function(){
+    	window.location.href="local.html";
+    });
+}); 

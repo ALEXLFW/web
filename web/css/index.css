@@ -1,0 +1,155 @@
+.ad {
+	height: 140px;
+}
+.button {
+	margin-top: 100px;
+}
+.item {
+	height: 140px;
+}
+.index {
+	margin-top: 10px;
+	height: 30px;
+}
+.ad img {
+	width: 100%;
+	height: 140px;
+} 
+.col-xs-ticket {
+	border-bottom: 1px solid orange;
+}
+.col-xs-ticket i {
+	color: orange;
+}
+.style-ticket {
+	margin-left: 8px;
+	color: orange;
+    font-size: 15px;
+}
+.style-station {
+	margin-left: 8px;
+    font-size: 15px;
+}
+.row-city {
+	margin-top: 10px;
+}
+.style-city {
+	margin-left: 5px;
+	color: grey;
+}
+.row-city.col-xs-4 {
+	margin-top: 5px;
+}
+.fa-stack {
+	margin-top: 10px;
+}
+.fa-circle-o {
+	margin-top: 12px;
+	margin-left: 40px;
+}
+.fa-exchange {
+	margin-top: 12px;
+	margin-left: 40px;
+}
+.row-data {
+	margin-top: 10px;
+}
+.row-search {
+	margin-top: 40px;
+}
+.style-search {
+	margin-left: 10px;
+	font-size: 15px;
+	font-weight: 600;
+	color: black;
+}
+.row-search .col-xs-6 {
+	margin-top: 20px;
+	background-color: orange;
+}
+.fa-search {
+	margin-left: 10px;
+	color: black;
+
+}
+.style-scity {
+	margin-top: 20px;
+	font-size: 15px;
+	color: grey;
+}
+.style-font {
+	font-size: 25px;
+	font-weight: 600;
+	color: black;
+}
+.row-station {
+	margin-top: 10px;
+}
+.row-station .fa-angle-right {
+	margin-top: 10px;
+	float: right;
+}
+.row-cityTwo {
+	margin-top: 20px;
+}
+.row-cityTwo .col-xs-6 {
+	background-color: orange;
+
+}
+.row-tmpEnd {
+    margin-left:1px;
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    margin-bottom: 10px;
+    border-top: 1px solid #dbdbdb;
+    z-index: 100000;
+    background: rgba(255,255,255,0.7);
+}
+.row-tmpEnd2 {
+    position: fixed;
+    width: 100%;
+    height: 19px;
+    line-height: 19px;
+    z-index: 100000;
+}
+.col-xs-tmpFa {
+    height: 25px;
+    line-height: 25px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-xs-tmpFatext {
+    height: 19px;
+    line-height: 19px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.col-xs-tmpFatext h2 {
+    font-size: 14px;
+    color: #4c4c4c;
+    margin: 0;
+}
+li {
+    list-style: none;
+}
+.fa-bell-o {
+    color: #ff8c00;
+}
+.fa {
+    color: #4c4c4c;
+    height: 20px;
+    line-height: 20px;
+}
+.row {
+    margin:0px;
+}
